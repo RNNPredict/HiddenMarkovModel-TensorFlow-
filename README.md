@@ -1,4 +1,3 @@
-[![Build Status](https://travis-ci.org/dwiel/tensorflow_hmm.svg?branch=master)](https://travis-ci.org/dwiel/tensorflow_hmm)
 
 # tensorflow_hmm
 Tensorflow and numpy implementations of the HMM viterbi and forward/backward algorithms
